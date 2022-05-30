@@ -7,7 +7,6 @@
 .container-fluid {
    width: 100%;
    max-width: 100%;
-   margin: 20px 0;
 }
 
 .container {
@@ -35,6 +34,10 @@
 .center {
    justify-content: center;
    text-align: center;
+}
+
+.space{
+   padding-bottom: 40px;
 }
 
 /* 12 system */
