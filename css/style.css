@@ -3,13 +3,13 @@
     height: 40px;
 }
 
-[class*="col-"], .col{
+[class*="col-"], .col {
     color: white;
     border: 1px solid white;
     padding: 10px;
     background-color: rgb(19, 122, 246);
- }
+}
 
  .green {
     background-color: rgb(36, 223, 107);
- }
+}
