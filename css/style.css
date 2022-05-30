@@ -1,9 +1,15 @@
+.container-fluid > div{
+    color: white;
+    height: 40px;
+}
+
 [class*="col-"], .col{
     color: white;
     border: 1px solid white;
+    padding: 10px;
+    background-color: rgb(19, 122, 246);
  }
 
- .row {
-    background-color: lightsalmon;
-    border: 1px solid red;
+ h2 {
+     margin: 10px;
  }
